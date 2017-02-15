@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-1yHNnJ3DtMg/WKRBbnMQ-1I/AAAAAAAAETw/-ov5xu9qjsw5e32EBzLfyHXH3iJtZnxBQCL0B/w530-d-h354-p-rw/IMG_8870_2.JPG' width='500px'/><br/> Khuyến mãi khai trương</a>. Giamx giá 20%. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-1yHNnJ3DtMg/WKRBbnMQ-1I/AAAAAAAAETw/-ov5xu9qjsw5e32EBzLfyHXH3iJtZnxBQCL0B/w530-d-h354-p-rw/IMG_8870_2.JPG' width='500px'/><br/> BỎ SỈ ĐỒ LÓT GIÁ RẺ</a>. Giamx giá 20%. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
